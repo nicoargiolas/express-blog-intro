@@ -1,0 +1,28 @@
+{
+  "name": "express-blog-intro",
+  "version": "1.0.0",
+  "description": "Blog con express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "watch": "node --watch app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicoargiolas/express-blog-intro.git"
+  },
+  "keywords": [
+    "blog",
+    "express"
+  ],
+  "author": "Nicola Argiolas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicoargiolas/express-blog-intro/issues"
+  },
+  "homepage": "https://github.com/nicoargiolas/express-blog-intro#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
